@@ -1,0 +1,7 @@
+{
+  "name": "GitHub ARM V3 - Elite Orchestrator",
+  "description": "Hyper-viral AI orchestration for GitHub. Advanced multi-folder analysis, viral SEO tricks, technical audits, and production release management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
